@@ -45,8 +45,8 @@
     "@xmldom/xmldom": "^0.8.10",
     "decompress": "^4.2.0",
     "file-type": "^16.5.4",
-    "pdf-parse": "^1.1.1",
-    "rimraf": "^2.6.3"
+    "rimraf": "^2.6.3",
+    "pdf-parse": "git+https://github.com/fahidsarker/pdf-parse.git"
   },
   "devDependencies": {
     "@types/decompress": "^4.2.6",
